@@ -7,6 +7,7 @@ little_women <- data.frame(
   Times.Mentioned=c(683,1355,495,645)
 )
 
+#123
 
 # Create plot object
 
